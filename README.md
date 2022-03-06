@@ -1,5 +1,5 @@
 ### ABOUT
-My name is Hans, im a Java Developer
+My name is Hans, im a Java Developer, working on that 1% better everyday
 
 
 <div>
